@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Adel</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h3 align="center">A passionate frontend developer \ Embedded software engineer from Egypt</h3>
 
-- 🔭 I’m currently learning more **about react js internals, typescript, javascript and improving my problem solving skills**
-
-- 🌱 I’m currently learning **about react js internals, typescript, javascript and improving my problem solving skills**
+- 🔭 I’m currently learning more ** the c programming language, embedded software development, embedded linux and improving my problem solving skills**
 
 - 📫 How to reach me **ahmedadel555441@gmail.com**
 
