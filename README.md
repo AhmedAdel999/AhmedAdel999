@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Adel</h1>
-<h3 align="center">A passionate frontend developer \ Embedded software engineer from Egypt</h3>
+<h3 align="center">Full stack engineer from Egypt</h3>
 
-- 🔭 I’m currently learning more ** the c programming language, embedded software development, embedded linux and improving my problem solving skills**
+- 🔭 I’m currently learning more ** All things related to web engineering improving my problem solving skills**
 
 - 📫 How to reach me **ahmedadel555441@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WdOtCI6gkHvIV5a630dIbB6xw3FBD_GJ/view?usp=sharing](https://drive.google.com/file/d/1WdOtCI6gkHvIV5a630dIbB6xw3FBD_GJ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1qqjJS6BBQbWIyR_Dw4qNIwG5apNwAQs9/view?usp=sharing](https://drive.google.com/file/d/1qqjJS6BBQbWIyR_Dw4qNIwG5apNwAQs9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
